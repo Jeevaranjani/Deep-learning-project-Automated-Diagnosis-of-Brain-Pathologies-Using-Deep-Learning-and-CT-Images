@@ -1,4 +1,5 @@
 Automated Diagnosis of Brain Pathologies Using Deep Learning and CT Images
+
 This project leverages deep learning models for the automated diagnosis of brain pathologies, including aneurysms, tumors, and cancer, using CT scan images. The primary objective is to develop a robust and accurate tool to assist healthcare professionals in diagnosing critical brain conditions, ultimately improving patient outcomes.
 
 Dataset
