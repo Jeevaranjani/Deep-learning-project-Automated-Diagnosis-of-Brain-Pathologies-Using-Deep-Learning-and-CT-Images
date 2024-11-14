@@ -4,7 +4,7 @@ This project leverages deep learning models for the automated diagnosis of brain
 
 Dataset
 
-The dataset for this project is available on Kaggle: CT Augmented Dataset for GSSOC
+The dataset for this project is available on Kaggle:https://www.kaggle.com/datasets/sangemjayaprakash/gssoc-ct-augumented-ds
 This dataset contains labeled CT images categorized into three classes: aneurysm, cancer, and tumor.
 
 Project Structure
@@ -37,7 +37,9 @@ Deployment: Integrate the model into clinical software for real-time diagnostics
 Explainability: Implement XAI techniques to visualize model predictions for better interpretability.
 
 Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
 License
+
 This project is licensed under the MIT License.
